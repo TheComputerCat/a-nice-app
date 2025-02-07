@@ -141,7 +141,7 @@
               <excludes>
                 <exclude>**/*.zip</exclude>
               </excludes>
-              <keyname>05E319B86043419DA48907342767F3B4B7A56813</keyname>
+              <!-- <keyname>05E319B86043419DA48907342767F3B4B7A56813</keyname> -->
               <gpgArguments>
                 <arg>--pinentry-mode</arg>
                 <arg>loopback</arg>
